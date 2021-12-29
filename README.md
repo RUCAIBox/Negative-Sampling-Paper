@@ -13,7 +13,7 @@ Existing negative sampling methods can be roughly divided into five categories: 
   - [Graph-based Sampling](#graph-based-sampling)
   - [Additional data enhanced Sampling](#additional-data-enhanced-sampling)
 
-- [Future Outlook](#Future Outlook)
+- [Future Outlook](#Future-Outlook)
   - [False Negative Problem](#false-negative-problem)
   - [Curriculum Learning](#curriculum-learning)
   - [Negative Sampling Ratio](#negative-sampling-ratio)
