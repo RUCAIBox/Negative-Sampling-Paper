@@ -7,18 +7,18 @@ Recommendation Systems (**RS**), Computer Vision (**CV**)，Natural Language Pro
 Existing negative sampling methods can be roughly divided into five categories: **Static Negative Sampling**, **Hard Negative Sampling**, **Adversarial Sampling**, **Graph-based Sampling** and **Additional data enhanced Sampling**.
 
 - [Category](#Category)
-  - [Static Negative Sampling](#Static Negative Sampling)
-  - [Hard Negative Sampling](#Hard Negative Sampling)
-  - [Adversarial Sampling](#Adversarial Sampling)
-  - [Graph-based Sampling](#Graph-based Sampling)
-  - [Additional data enhanced Sampling](#Additional data enhanced Sampling)
+  - [Static Negative Sampling](#static-negative-sampling)
+  - [Hard Negative Sampling](#hard-negative-sampling)
+  - [Adversarial Sampling](#adversarial-sampling)
+  - [Graph-based Sampling](#graph-based-sampling)
+  - [Additional data enhanced Sampling](#additional-data-enhanced-sampling)
 
 - [Future Outlook](#Future Outlook)
-  - [False Negative Problem](#False Negative Problem)
-  - [Curriculum Learning](#Curriculum Learning)
-  - [Negative Sampling Ratio](#Negative Sampling Ratio)
-  - [Debiased Sampling](#Debiased Sampling)
-  - [Non-Sampling](#Non-Sampling)
+  - [False Negative Problem](#false-negative-problem)
+  - [Curriculum Learning](#curriculum-learning)
+  - [Negative Sampling Ratio](#negative-sampling-ratio)
+  - [Debiased Sampling](#debiased-sampling)
+  - [Non-Sampling](#non-sampling)
 
 Category
 ----
