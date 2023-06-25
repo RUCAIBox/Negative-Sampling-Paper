@@ -101,6 +101,8 @@ Category
 
 -	Hard-Negatives or Non-Negatives? A Hard-Negative Selection Strategy for Cross-Modal Retrieval Using the Improved Marginal Ranking Loss. `ICCV(2021)` **[CV]** **[[PDF](https://openaccess.thecvf.com/content/ICCV2021W/ViRaL/papers/Galanopoulos_Hard-Negatives_or_Non-Negatives_A_Hard-Negative_Selection_Strategy_for_Cross-Modal_Retrieval_ICCVW_2021_paper.pdf)]**
 
+-	Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings. `EMNLP(2022)` **[NLP]** **[[PDF](https://arxiv.org/pdf/2202.06671)]**
+
 
 ### Adversarial Sampling
 
